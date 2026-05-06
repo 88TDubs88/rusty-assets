@@ -1,0 +1,19 @@
+{
+  "name": "Rusty AI Token List",
+  "timestamp": "2026-05-06T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x59d3A4Af5BfD03d15F56072E34F9f17bDA5F3859",
+      "name": "Rusty AI",
+      "symbol": "RUSTY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/88TDubs88/rusty-assets/main/RustyNew.svg"
+    }
+  ]
+}
